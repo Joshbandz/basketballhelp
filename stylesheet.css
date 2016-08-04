@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Walter Turncoat', cursive;
+}
+p{
+    font-family: 'Walter Turncoat', cursive;
+}
+body{
+    font-family: 'Walter Turncoat', cursive; background-color: rgb(125,14,0)
+}
+li{
+    display: inline;
+}
+a{
+    color: white;
+    font-size: 24px;
+    padding: 24px;
+    margin: 24px;
+}
+div{
+    border-style: solid;
+    background-color: gray;
+}
